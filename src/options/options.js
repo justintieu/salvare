@@ -501,7 +501,7 @@
 		for (var i = 0; i < terms.length; i++) {
 			var currentTerm = terms[i].toLowerCase();
 			if (currentWebsite.tags.length && currentTerm.indexOf("tag:") === 0) {
-				var currentTag = currentTerm.substr(4).replace("-", " ").toLowerCase();
+				var currentTag = currentTerm.substr(4).replace(/-/g, " ").toLowerCase();
 				for (var j = 0; j < currentWebsite.tags.length; j++) {
 					var websiteTag = currentWebsite.tags[j];
 					if (websiteTag.toLowerCase() === currentTag) {
