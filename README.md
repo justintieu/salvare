@@ -3,7 +3,7 @@
 Table of Contents
 =================
 * [What does the Chrome Extension do?](#what-does-the-chrome-extension-do)
-* [Install)(#install)
+* [Install](#install)
 * [How to save a website into Salvare?](#how-to-save-a-website-into-salvare)
 * [How to access websites saved to Salvare?](#how-to-acccess-websites-saved-to-salvare)
 * [Features](#features)
