@@ -509,8 +509,11 @@
 					}
 				}
 			} else {
-				var description = currentWebsite.description.toLowerCase();
-				var title = currentWebsite.title.toLowerCase();
+				var description = currentWebsite.description || "";
+				description = description.toLowerCase();
+
+				var title = currentWebsite.title || "";
+				title = title.toLowerCase();
 				if (~description.indexOf(currentTerm) || ~title.indexOf(currentTerm)) {
 					return true;
 				}
