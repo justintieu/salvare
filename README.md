@@ -3,6 +3,7 @@
 Table of Contents
 =================
 * [What does the Chrome Extension do?](#what-does-the-chrome-extension-do)
+* [Install)(#install)
 * [How to save a website into Salvare?](#how-to-save-a-website-into-salvare)
 * [How to access websites saved to Salvare?](#how-to-acccess-websites-saved-to-salvare)
 * [Features](#features)
@@ -16,6 +17,9 @@ Table of Contents
 Salvare is an enhanced bookmark manager that has additional capabilities to save and search for saved websites.
 Salvare will store both title and description metadata, which are both searchable through the options page.
 In addition, there is a tagging system which allows users to add relevant tags for each website they would like to save.
+
+## Install 
+Install the Chrome Extension through the [Google Chrome Web Store](https://chrome.google.com/webstore/detail/nheegfpibkcdkjhkecokjgibkbollccd/)
 
 ## How to save a website into Salvare?
 There are two ways to save a website into Salvare. 
